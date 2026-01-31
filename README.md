@@ -6,17 +6,18 @@
   <h1>Hi 👋, I'm Osama</h1>
 </div>
 
+
 🚀 Software Engineer | Laravel & NestJS | React & NextJS | 🧠 Always Learning
 
-#
 
-## About Me
+# About Me
 
 - 🔭 Currently building backend systems using **Laravel** and **NestJS**, with an emphasis on modularity, security, and scalability.
 - 🛠️ **Core Technologies & Tools**:  
   `PHP · Laravel · TypeScript · NestJS · MySQL · PostgreSQL · REST APIs · React · NextJS · Pusher · WebSockets `
 
-## Top Projects
+
+# Top Projects
 
 1. [E-Commerce-System](https://github.com/osama806/E-Commerce-System) ⭐
    - Description: Forked multi-role E-Commerce platform for Admins, Sales Managers, Store Managers, and Customers — manages products, orders, categories, reports, and users.
@@ -30,12 +31,18 @@
 4. [Task-Management-System](https://github.com/osama806/Task-Management-System) ⭐
    - Description: RESTful Task Management API (PHP/MySQL) — admins/managers assign tasks; users deliver tasks; supports filtering by priority/status.
 
+  <div id="header" align="center">
+    <h4>Feel free to check them below 👇</h4>
+  </div>
 
-## Skills & Technologies
+#
+
+# Skills & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=php,nodejs,js,nestjs,laravel,react,nextjs,postgres,mysql&perline=8)](https://skillicons.dev)
 
-## 📫 Connect with Me
+
+# Connect with Me
 
 - 📧 Email: osama20033210@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/osama-naser-2003yo3210
